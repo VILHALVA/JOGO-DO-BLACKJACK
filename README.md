@@ -48,4 +48,3 @@ O jogo também possui funcionalidades para adicionar atalhos de teclado para jog
 ## CREDITOS:
 - [PROJETO CRIADO PELO "felipeAguiarCode"](https://github.com/felipeAguiarCode/felipeAguiarcode.github.io/blob/master/index.html)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
